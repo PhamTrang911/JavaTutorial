@@ -16,7 +16,7 @@ public class Main {
             animal.makeSound();
         }
 
-        // Domestic ones
+        // Pet ones
         Pet[] pets = {
             (Pet) animals[0],
             (Pet) animals[1],

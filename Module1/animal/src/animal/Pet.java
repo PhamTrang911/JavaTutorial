@@ -2,7 +2,7 @@ package animal;
 
 public abstract class Pet extends Animal {
 
-    // Domestic animals should have their names
+    // Pet  should have their names
     protected String name;
 
     // Name must be assigned in the constructor
